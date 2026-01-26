@@ -121,7 +121,9 @@ multilingual-mandi/
 
 ---
 
-## Running Locally
+## Running Locally and Deployed Link
+
+Deployed Link: https://multilingual-mandi-demo.netlify.app/
 
 ### 1. Install dependencies
 
